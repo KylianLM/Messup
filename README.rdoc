@@ -1,28 +1,22 @@
-== README
+= Mess'up
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Projet d'étudiants à Hetic fait dans le cadre du cours de JS
 
-Things you may want to cover:
+== Description
 
-* Ruby version
+Mess’up est un système de regroupement des messageries en une application desktop et
+mobile unique. En d’autres termes : un concentrateur, un hub.
+Le nom Mess’Up nous est venu d’un petit jeu de mot comprenant le mot « message » et
+« mess » (désordre), l’expression « mess up » (semer la pagaille), visant à bien cibler le
+coeur du problème : la pagaille dans nos messages ! La solution : clean up.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Actuellement en développement
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+== Team
+
+Guillaume Baldo
+Aurélie Viau
+Hugo Sonet
+Theo Bourgoin
+Kylian Le Mette
