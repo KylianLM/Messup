@@ -15,8 +15,8 @@ Actuellement en développement
 
 == Team
 
-Guillaume Baldo
-Aurélie Viau
-Hugo Sonet
-Theo Bourgoin
-Kylian Le Mette
+Guillaume Baldo <br />
+Aurélie Viau <br />
+Hugo Sonet <br />
+Theo Bourgoin <br />
+Kylian Le Mette <br />
